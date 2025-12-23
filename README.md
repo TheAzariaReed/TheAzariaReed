@@ -1,16 +1,28 @@
-## Hi there 👋
+# Azaria A. Reed
 
-<!--
-**TheAzariaReed/TheAzariaReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Target Roles:** Software Test / Validation Engineer | Associate Systems Engineer  
+**Location:** Huntsville, AL (Open to nearby / hybrid)
 
-Here are some ideas to get you started:
+I build and evaluate technical systems with an emphasis on **validation, metrics, and clear documentation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Machine learning experimentation (regression + classification) with performance evaluation
+- Technical writing: structured reports, methods, results, limitations, and recommendations
+- UX evaluation: participant-based usability findings and actionable improvements
+
+## Portfolio (Best Starting Points)
+1) **SVR vs ANN (Auto MPG) — Model Comparison & Evaluation**  
+   Repo: [LINK HERE]
+
+2) **UX Project — Usability Evaluation & Findings**  
+   Repo: [LINK HERE]
+
+3) **War Project — System Report & Postmortem-Style Documentation**  
+   Repo: [LINK HERE]
+
+## Resume
+- PDF: [LINK HERE]
+
+## Contact
+- Email: aar1362@uah.edu
+- LinkedIn: [your linkedin]
