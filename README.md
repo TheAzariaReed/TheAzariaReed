@@ -24,5 +24,5 @@ I build and evaluate technical systems with an emphasis on **validation, metrics
 - PDF: [LINK HERE]
 
 ## Contact
-- Email: aar1362@uah.edu
+- Email: zariereed@gmail.com
 - LinkedIn: [your linkedin]
