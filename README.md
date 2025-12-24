@@ -12,13 +12,13 @@ I build and evaluate technical systems with an emphasis on **validation, metrics
 
 ## Portfolio (Best Starting Points)
 1) **SVR vs ANN (Auto MPG) — Model Comparison & Evaluation**  
-   Repo: [LINK HERE]
+   Repo: https://github.com/TheAzariaReed/technical-projects/tree/71dab45334c1685c0ac2b75d2e5372849e8dfc2b/TechnicalProjects/AutoMPG_SVR-vs-ANN_ModelValidation
 
 2) **UX Project — Usability Evaluation & Findings**  
-   Repo: [LINK HERE]
+   Repo: https://github.com/TheAzariaReed/technical-projects/tree/71dab45334c1685c0ac2b75d2e5372849e8dfc2b/TechnicalProjects/UX_UsabilityStudy_TuitionCalculator
 
 3) **War Project — System Report & Postmortem-Style Documentation**  
-   Repo: [LINK HERE]
+   Repo: https://github.com/TheAzariaReed/technical-projects/tree/71dab45334c1685c0ac2b75d2e5372849e8dfc2b/TechnicalProjects/War_GameSystems_Postmortem
 
 ## Resume
 - PDF: [LINK HERE]
