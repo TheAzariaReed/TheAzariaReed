@@ -25,4 +25,4 @@ I build and evaluate technical systems with an emphasis on **validation, metrics
 
 ## Contact
 - Email: zariereed@gmail.com
-- LinkedIn: [your linkedin]
+- LinkedIn: www.linkedin.com/in/theazariareed
