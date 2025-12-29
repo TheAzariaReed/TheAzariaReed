@@ -21,7 +21,7 @@ I build and evaluate technical systems with an emphasis on **validation, metrics
    Repo: https://github.com/TheAzariaReed/technical-projects/tree/main/TechnicalProjects/War_GameSystems_Postmortem
 
 ## Resume
-- PDF: https://github.com/TheAzariaReed/technical-projects/blob/main/Resume/ResumeAzariaReed.pdf
+- PDF: https://github.com/TheAzariaReed/technical-projects/blob/main/Resume/Azaria%20Reed%20-%20Resume.pdf
 
 ## Contact
 - Email: zariereed@gmail.com
