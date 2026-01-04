@@ -1,6 +1,6 @@
 # Azaria A. Reed
 
-**Target Roles:** Software Test / Validation Engineer | Associate Systems Engineer | Software Engineer  
+**Target Roles:** Software Test / Validation Engineer    
 **Location:** Huntsville, AL (Open to nearby / hybrid)
 
 I build and evaluate technical systems with an emphasis on **validation, metrics, and clear documentation**.
